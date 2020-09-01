@@ -1,0 +1,28 @@
+{
+  "name": "cmmads",
+  "version": "1.0.0",
+  "description": "api ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebWalterWrite/cmmads.git"
+  },
+  "author": "sammy webwalterwhrite codeofduty.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebWalterWrite/cmmads/issues"
+  },
+  "homepage": "https://github.com/WebWalterWrite/cmmads#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.25",
+    "mongoose": "^5.10.2"
+  }
+}
